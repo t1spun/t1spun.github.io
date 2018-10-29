@@ -1,0 +1,16 @@
+<svg width="43" height="60" viewBox="0 0 43 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="32.4145" y="0.881592" width="52.8809" height="33.0506" rx="2" transform="rotate(78.7416 32.4145 0.881592)" fill="#0D0D0D"/>
+<rect x="30.5957" y="5.28784" width="39.6607" height="27.7625" transform="rotate(78.7416 30.5957 5.28784)" fill="url(#paint0_linear)"/>
+<rect x="14.4781" y="52.9792" width="5.28809" height="1.32202" transform="rotate(-11.2584 14.4781 52.9792)" fill="#424242"/>
+<rect x="31.3337" y="49.6235" width="5.28809" height="1.32202" transform="rotate(-11.2584 31.3337 49.6235)" fill="#424242"/>
+<rect x="23.5542" y="51.1721" width="3.96607" height="1.32202" transform="rotate(-11.2584 23.5542 51.1721)" fill="#424242"/>
+<defs>
+<linearGradient id="paint0_linear" x1="70.2564" y1="5.28784" x2="30.5957" y2="33.0503" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D5C5BA"/>
+<stop offset="0.265193" stop-color="white"/>
+<stop offset="0.563536" stop-color="#D5C5BA"/>
+<stop offset="0.79558" stop-color="#F1E8E3"/>
+<stop offset="1" stop-color="#D5C5BA"/>
+</linearGradient>
+</defs>
+</svg>

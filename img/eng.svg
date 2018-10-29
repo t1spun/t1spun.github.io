@@ -1,0 +1,29 @@
+<svg width="60" height="80" viewBox="0 0 60 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="4.0678" height="80" fill="#D5C5BA"/>
+<rect x="4.06781" y="4" width="42.7119" height="39" fill="#C4C4C4"/>
+<rect x="25.4237" y="4" width="21.3559" height="4" fill="white"/>
+<rect x="4.06781" y="4" width="21.3559" height="16" fill="#2545F0"/>
+<rect x="46.7797" y="15" width="13.2203" height="39" fill="#C4C4C4"/>
+<rect x="25.4237" y="8" width="21.3559" height="4" fill="#F12525"/>
+<rect x="25.4237" y="12" width="21.3559" height="4" fill="white"/>
+<rect x="25.4237" y="12" width="21.3559" height="4" fill="white"/>
+<rect x="4.06781" y="20" width="42.7119" height="4" fill="white"/>
+<rect x="25.4237" y="16" width="21.3559" height="4" fill="#F12525"/>
+<rect x="4.06781" y="24" width="42.7119" height="4" fill="#F12525"/>
+<rect x="4.06781" y="28" width="42.7119" height="4" fill="white"/>
+<rect x="4.06781" y="32" width="42.7119" height="4" fill="#F12525"/>
+<rect x="4.06781" y="36" width="42.7119" height="4" fill="white"/>
+<rect x="4.06781" y="40" width="42.7119" height="4" fill="#F12525"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="46" y="15" width="15" height="39">
+<rect x="46.7797" y="15" width="13.2203" height="39" fill="#2545F0"/>
+</mask>
+<g mask="url(#mask0)">
+<rect x="46.7797" y="15" width="13.2203" height="39" fill="#2545F0"/>
+<rect x="46.7797" y="30" width="13.2203" height="7" fill="white"/>
+<rect x="46.7797" y="31" width="13.2203" height="5" fill="#F02525"/>
+<rect width="28.1681" height="4.09218" transform="matrix(0.717092 0.696978 -0.70893 0.705279 41.9488 34.1794)" fill="white"/>
+<rect width="27.3132" height="2.31212" transform="matrix(0.717092 0.696978 -0.70893 0.705279 41.3484 34.7766)" fill="#F02525"/>
+<rect width="28.1626" height="4.09298" transform="matrix(0.70893 -0.705279 0.717092 0.696978 38.644 31.8624)" fill="white"/>
+<rect width="27.3078" height="2.31258" transform="matrix(0.70893 -0.705279 0.717092 0.696978 39.2513 32.4528)" fill="#F02525"/>
+</g>
+</svg>
