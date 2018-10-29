@@ -266,7 +266,8 @@ a:hover {
   margin-top: 6%;
   width: 100%;
   background: linear-gradient(to right, #37FFCF 0%, #426978 84%, #444E69 100%);
-  font-family: 'rubik black', sans-serif;
+  font-family: 'rubik', sans-serif;
+  font-weight: 900;
   font-size: 110pt;
   color: #333333;
   text-align: center;
